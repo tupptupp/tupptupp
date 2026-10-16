@@ -24,6 +24,13 @@ I care about building products that are useful, understandable, and visually dis
 
 ## Selected work
 
+### Execution Explorer · Interactive observability concept
+
+A public React/TypeScript portfolio demo for exploring workflow runs, statuses, errors and step-by-step execution timelines. Built with AI-assisted engineering using entirely synthetic data.
+
+**[Live demo ↗](https://execution-explorer-sigma.vercel.app) · [Source code ↗](https://github.com/tupptupp/execution-explorer)**
+
+
 ### 01 — Formodo Web Studio · Interactive 3D experience
 
 An independent creative-web project centered on a sculptural metallic form that transitions into an immersive digital showroom. My work focuses on art direction, spatial composition, interaction design, and AI-assisted technical implementation.
