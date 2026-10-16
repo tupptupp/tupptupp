@@ -24,12 +24,17 @@ I care about building products that are useful, understandable, and visually dis
 
 ## Selected work
 
-### Execution Explorer · Interactive observability concept
+### Featured — Execution Explorer · Workflow Engine & Developer Console
 
-A public React/TypeScript portfolio demo for exploring workflow runs, statuses, errors and step-by-step execution timelines. Built with AI-assisted engineering using entirely synthetic data.
+**[Try the live demo ↗](https://execution-explorer-sigma.vercel.app) · [Explore the source ↗](https://github.com/tupptupp/execution-explorer) · [Architecture ↗](https://github.com/tupptupp/execution-explorer/blob/main/docs/architecture.md)**
 
-**[Live demo ↗](https://execution-explorer-sigma.vercel.app) · [Source code ↗](https://github.com/tupptupp/execution-explorer)**
+A working TypeScript workflow engine with a visual React console for understanding how asynchronous tasks execute, retry, fail and recover. Includes DAG dependency scheduling, browser-persisted checkpoints, explicit recovery, event replay, trace export and dedicated desktop/mobile interactions.
 
+**Engineering evidence:** 38 engine tests and 19 browser tests passed in the recorded release verification, with accessibility checks and CI on Node 22/24.
+
+**Stack:** TypeScript · React · IndexedDB · Playwright · Vite
+
+**Scope:** Independent, AI-assisted portfolio project using simulated services. No backend, exactly-once execution claims or real customer data.
 
 ### 01 — Formodo Web Studio · Interactive 3D experience
 
